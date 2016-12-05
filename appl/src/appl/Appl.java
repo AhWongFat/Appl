@@ -22,6 +22,7 @@ public class Appl {
 
                 System.out.println(b);
 
+        }
     }
     
 }
